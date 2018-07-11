@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/lemfo/lem7
+LOCAL_PATH := device/lemfo/LD_AUO
 
 # Architecture
 TARGET_ARCH := arm
