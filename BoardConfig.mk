@@ -53,6 +53,7 @@ TARGET_USERIMAGES_USE_EXT4 := true
 # TWRP Configuration
 RECOVERY_VARIANT := twrp
 TW_THEME := watch_mdpi
+TW_ROUND_SCREEN := true
 TW_INCLUDE_CRYPTO := true
 TW_MAX_BRIGHTNESS := 255
 TW_BRIGHTNESS_PATH := "/sys/devices/platform/leds-mt65xx/leds/lcd-backlight/brightness"
