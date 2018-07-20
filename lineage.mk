@@ -23,10 +23,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit language packages
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 
-# Charger
-PRODUCT_PACKAGES += \
-    charger_res_images
-
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := infinity
 PRODUCT_NAME := lineage_infinity
