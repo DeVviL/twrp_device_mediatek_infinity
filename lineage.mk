@@ -28,8 +28,8 @@ PRODUCT_PACKAGES += \
     charger_res_images
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := LD_AUO
-PRODUCT_NAME := lineage_LD_AUO
-PRODUCT_BRAND := LEMFO
-PRODUCT_MODEL := LEM7
-PRODUCT_MANUFACTURER := LEMFO
+PRODUCT_DEVICE := infinity
+PRODUCT_NAME := lineage_infinity
+PRODUCT_BRAND := MediaTek
+PRODUCT_MODEL := Infinity
+PRODUCT_MANUFACTURER := MediaTek

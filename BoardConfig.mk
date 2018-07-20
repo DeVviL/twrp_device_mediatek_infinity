@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/lemfo/LD_AUO
+LOCAL_PATH := device/mediatek/infinity
 
 # Architecture
 TARGET_ARCH := arm
